@@ -10,6 +10,7 @@ import UserForm from "./views/UserForm";
 
 const router = createBrowserRouter([
   {
+
     path: '/',
     element: <DefaultLayout/>,
     children: [
